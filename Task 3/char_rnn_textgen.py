@@ -87,3 +87,5 @@ def generate_text(model, start_text, length=200):
         input_seq = torch.tensor([[char_idx]])
 
     return result
+
+
