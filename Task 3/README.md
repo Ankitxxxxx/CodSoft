@@ -1,1 +1,1 @@
-
+Implement a character-level recurrent neural network (RNN) togenerate handwritten-like text. Train the model on a dataset ofhandwritten text examples, and let it generate new text based onthe learned patterns.
